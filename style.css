@@ -1,0 +1,152 @@
+.b{
+    border: 1px solid black
+}
+
+body{
+    width: 90vw;
+}
+.play-btn{
+    position: relative;
+    top: 15px;
+}
+
+
+.plantext{
+    position: relative;
+    bottom: 80px;
+    left: 20px;
+}
+
+.whitebgc{
+    width: 200px;
+    height: 220px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-weight: 200;
+}
+
+.box{
+    
+    position:relative;
+    z-index: -3;
+    top: 300px;
+    left: 345px;
+}
+
+
+.headimg{
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    z-index: -1;
+    right: 120px;
+    top: 150px;
+}
+
+p{
+    font-weight: 400;
+}
+
+.round{
+    position: absolute;
+    z-index: -2;
+    height: 500px;
+    widows: 500px;
+    right: 0;
+}
+p, .h1{
+    width: 400px;
+    font-weight: 300; 
+}
+.brush{
+    position: relative;
+    top: 255px;
+    left: 330px;
+    z-index: -1;
+}
+.small{
+    position: relative;
+    right: 0;
+    bottom: 200px;
+    left: 720px;
+    
+
+}
+.box-ceo{
+    position: relative;
+    left: 90px;
+    top: -170px;
+    display: grid;
+    align-items: end;
+    z-index: -2;
+}
+
+.ractangle{
+    border:none;
+    border-radius: 100px 20px 20px 20px;
+     height: 370px;
+    width: 1080px;
+    background-color: rgba(99, 99, 99, 0.068);
+}
+.decoration-circule-right{
+    position: relative;
+    left: 498px;
+    bottom: 1px;
+    
+}
+.decoration-circule-left{
+    position: relative;
+    top: 90px;
+    left: 15px;
+}
+
+.dimg{
+
+    position: relative;
+    left: 470px;
+    bottom: 400px;
+    z-index: -1;
+}
+.decor-icon{
+    position: relative;
+  bottom: 140px;
+    left: 440px;
+}
+.subscribe-text{
+    position: relative;
+    left: 200px;
+    bottom: 250px;
+    text-align: center;
+}
+
+.search-bar{
+    position: relative;
+    right: 250px;
+    top: 130px;
+}
+.text-search-bar{
+    position: relative;
+    left: 130px;
+}
+.mail-icon{
+    position: relative;
+    left: 120px;
+}
+ul{
+    list-style: none;
+    
+}
+
+h2{
+    font-family: Volkhov;
+font-size: 54px;
+font-weight: 700;
+
+}
+
